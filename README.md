@@ -11,7 +11,7 @@ Designed to be used in CNC router work flows.
 *    Estimates the amount of time it will take to run
 *    Allows the user to alter the z axis values
 *    Allows the user to alter the feed rates
-*    Allows the user to scale the file _future_
-*    Will display the material after routing in 3d, animated _future_
-*    Will display the tool path in 3d, animated _future_
+*    Allows the user to scale the file _**future**_
+*    Will display the material after routing in 3d, animated _**future**_
+*    Will display the tool path in 3d, animated _**future**_
 
