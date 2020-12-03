@@ -1,7 +1,7 @@
 # GCoder
 Python application that will read an nc file and show certain properties of the object. Allows you to modify certain properties in the file.
 
-Designed to be used in CNC router work flows.
+Intended to be used in CNC router work flows.
 
 ###   _Features_:
 
@@ -17,23 +17,14 @@ Designed to be used in CNC router work flows.
 
 ###  _ToDo List_:
 
-**- [ ]**  Add function/class to create a popup modal form
-
-**- [ ]**  Add class to display the results of running the NC file
-
-**- [ ]**  Write code for the define tools form
-
-**- [ ]**  Write code for the define material form
-
-**- [ ]**  Write code to save images
-
-**- [X]**  Write code to estimate runtime
-
-**- [X]**  Write code to import nc files
-
-**- [X]**  Write code to read and create stats
-
-**- [X]**  Write code to alter the z-axis
-
-**- [X]**  Write code to alter the feed rates
+- [ ]  Add function/class to create a popup modal form
+- [ ]  Add class to display the results of running the NC file
+- [ ]  Write code for the define tools form
+- [ ]  Write code for the define material form
+- [ ]  Write code to save images
+- [x]  Write code to estimate runtime
+- [x]  Write code to import nc files
+- [x]  Write code to read and create stats
+- [x]  Write code to alter the z-axis
+- [x]  Write code to alter the feed rates
 
