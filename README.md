@@ -3,7 +3,7 @@ Python application that will read an nc file and show certain properties of the 
 
 Designed to be used in CNC router work flows.
 
-##   _Features_:
+###   _Features_:
 
 *    Shows the max/min for each axis and feed rates
 *    Shows a list of z axis values found in the file
@@ -14,4 +14,26 @@ Designed to be used in CNC router work flows.
 *    Allows the user to scale the file _**future**_
 *    Will display the material after routing in 3d, animated _**future**_
 *    Will display the tool path in 3d, animated _**future**_
+
+###  _ToDo List_:
+
+**- [ ]**  Add function/class to create a popup modal form
+
+**- [ ]**  Add class to display the results of running the NC file
+
+**- [ ]**  Write code for the define tools form
+
+**- [ ]**  Write code for the define material form
+
+**- [ ]**  Write code to save images
+
+**- [X]**  Write code to estimate runtime
+
+**- [X]**  Write code to import nc files
+
+**- [X]**  Write code to read and create stats
+
+**- [X]**  Write code to alter the z-axis
+
+**- [X]**  Write code to alter the feed rates
 
